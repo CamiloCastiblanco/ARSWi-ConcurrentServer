@@ -9,7 +9,7 @@
 
 ![HILOS_P0](https://github.com/CamiloCastiblanco/ARSWi-ConcurrentServer/blob/main/imgenes/HILOS_P0.png)
 
-![hILOS_P1](https://github.com/CamiloCastiblanco/ARSWi-ConcurrentServer/blob/main/imgenes/HILOS_P0.png)
+![hILOS_P1](https://github.com/CamiloCastiblanco/ARSWi-ConcurrentServer/blob/main/imgenes/hILOS_P1.png)
 
 ## Autor
 
